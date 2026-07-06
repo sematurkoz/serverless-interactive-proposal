@@ -16,7 +16,7 @@ Kullanıcı (Tarayıcı) ➔ AWS Lambda Function URL ➔ AWS Lambda (Python) ➔
 * **JavaScript:** İşin dinamiğidir. "Hayır" butonunun imleçten kaçmasını sağlayan koordinat hesaplamalarını ve "Evet" tıklandığında fırlayan emojileri yönetir.
 
 ## Nasıl Çalışır?
-Kullanıcı benzersiz AWS Function URL linkine tıkladığında, AWS Lambda fonksiyonu arkada hiçbir 7/24 aktif sunucu (EC2) yönetimine ihtiyaç duymadan milisaniyeler içinde uyanır, kodu çalıştırır ve dinamik içeriği tarayıcıya döner. Sayfa kapalıyken bulut maliyeti sıfırdır (0).
+Kullanıcı benzersiz AWS Function URL linkine tıkladığında, AWS Lambda fonksiyonu arkada hiçbir 7/24 aktif sunucu (EC2) yönetimine ihtiyaç duymadan milisaniyeler içinde uyanır, kodu çalıştırır ve dinamik içeriği tarayıcıya döner. Sayfa kapalıyken bulut maliyeti sıfırdır.
 
 ## Canlı Önizleme
 https://z7khvq5uff6iezk3k75oxxfjfa0sclnj.lambda-url.eu-north-1.on.aws/
